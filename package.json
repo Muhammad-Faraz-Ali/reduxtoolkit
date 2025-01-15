@@ -1,11 +1,11 @@
 {
-  "name": "project_name",
-  "description": "project_description",
+  "name": "reduxtoolkit",
+  "description": "null",
   "version": "0.1.0",
   "private": true,
   "author": {
-    "name": "author_name",
-    "email": "author_email"
+    "name": "Muhammad-Faraz-Ali",
+    "email": "farazalipucit@gmail.com"
   },
   "scripts": {
     "dev": "next dev",
